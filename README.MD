@@ -13,7 +13,7 @@ git push origin master - enviar do repositorio local para o remoto
 
 git pull origin master - trazer do repositorio remoto para o local
 
-install
+Instalação
 =======
 
 Para tal procedimento precisaremos de um Login no portal github.com e instalar o terminal Git na maquina local, segue link do software : https://git-scm.com/downloads
