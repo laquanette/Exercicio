@@ -7,16 +7,21 @@ Este produto é referente a prática da ferramenta Git, um sistema de versioname
 Metodos
 =======
 
-Utilizaremos o sistema Git em maquina local e o GitHub para conexão online, segue comandos para baixar os arquivos remotos:
+Utilizaremos o sistema Git em maquina local e o GitHub para conexão online.
 
-git push origin master - enviar do repositorio local para o remoto
+Segue comandos para enviar e trazer os arquivos:
 
-git pull origin master - trazer do repositorio remoto para o local
+git push Exercicio master - enviar do repositorio local para o remoto
+
+git pull Exercicio master - trazer do repositorio remoto para o local
 
 Instalação
 =======
 
-Para tal procedimento precisaremos de um Login no portal github.com e instalar o terminal Git na maquina local, segue link do software : https://git-scm.com/downloads
+Precisaremos dos seguintes procedimentos para uma perfeita execução.
+
+Cadastro no portal : http://github.com
+Dounload do software local : https://git-scm.com/downloads
 
 Licença
 =======
